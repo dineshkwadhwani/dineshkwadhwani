@@ -43,6 +43,12 @@ I am Currently Working on AI <br>This includes creating AI Agents to schedule mu
 
 ## 🗂️ Recent Projects
 <!-- RECENT-REPOS:START -->
+[![leadgenerator](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=leadgenerator&theme=dark&hide_border=true)](https://github.com/dineshkwadhwani/leadgenerator)
+[![clubdeeperforms](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=clubdeeperforms&theme=dark&hide_border=true)](https://github.com/dineshkwadhwani/clubdeeperforms)
+[![dineshtrade](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=dineshtrade&theme=dark&hide_border=true)](https://github.com/dineshkwadhwani/dineshtrade)
+[![fieldedge](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=fieldedge&theme=dark&hide_border=true)](https://github.com/dineshkwadhwani/fieldedge)
+[![demo](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=demo&theme=dark&hide_border=true)](https://github.com/dineshkwadhwani/demo)
+[![StudioVerse](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=StudioVerse&theme=dark&hide_border=true)](https://github.com/dineshkwadhwani/StudioVerse)
 <!-- RECENT-REPOS:END -->
 
 ### ✍️ Random Dev Quote
