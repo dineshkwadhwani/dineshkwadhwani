@@ -6,11 +6,11 @@ on:
   workflow_dispatch:        # lets you trigger it manually from GitHub
 
 permissions:
-  contents: write           # needed so the action can commit back to the repo
+  contents: write
 
 jobs:
   update-readme:
-    runs-on: ubuntu-latest  # GitHub provides this VM for free
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
@@ -22,29 +22,51 @@ jobs:
           script: |
             const fs = require('fs');
 
-            // Call the GitHub API — same data you see on your profile
             const { data: repos } = await github.rest.repos.listForUser({
               username: 'dineshkwadhwani',
-              sort: 'pushed',        // sorted by most recently pushed
+              sort: 'pushed',
               direction: 'desc',
               per_page: 10,
-              type: 'owner'          // only your own repos, not ones you starred
+              type: 'owner'
             });
 
-            // Skip the profile repo itself and any forks
             const filtered = repos
               .filter(r => !r.fork && r.name !== 'dineshkwadhwani')
               .slice(0, 6);
 
-            // Build a card for each repo using github-readme-stats (which is working)
-            const cards = filtered.map(repo =>
-              `[![${repo.name}](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=${encodeURIComponent(repo.name)}&theme=dark&hide_border=true)](${repo.html_url})`
-            ).join('\n');
+            // Build a card cell for one repo
+            const cell = (repo) => {
+              if (!repo) return `<td width="50%"></td>`;
 
-            const newSection =
-              `<!-- RECENT-REPOS:START -->\n${cards}\n<!-- RECENT-REPOS:END -->`;
+              const desc = repo.description
+                ? repo.description
+                : '_No description — add one on GitHub for it to appear here._';
 
-            // Replace everything between the markers in README.md
+              const langBadge = repo.language
+                ? `<img src="https://img.shields.io/github/languages/top/${repo.full_name}?style=flat-square&label=${encodeURIComponent(repo.language)}" alt="${repo.language}" />`
+                : '';
+
+              return `<td width="50%" valign="top">
+              <h4><a href="${repo.html_url}">📁 ${repo.name}</a></h4>
+              <p>${desc}</p>
+              <p>
+                ${langBadge}
+                <img src="https://img.shields.io/github/stars/${repo.full_name}?style=flat-square" alt="stars" />
+                <img src="https://img.shields.io/github/forks/${repo.full_name}?style=flat-square" alt="forks" />
+                <img src="https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square" alt="last commit" />
+              </p>
+            </td>`;
+            };
+
+            // Layout: 2 cards per row
+            const rows = [];
+            for (let i = 0; i < filtered.length; i += 2) {
+              rows.push(`<tr>\n${cell(filtered[i])}\n${cell(filtered[i + 1])}\n</tr>`);
+            }
+
+            const table = `<table>\n${rows.join('\n')}\n</table>`;
+            const newSection = `<!-- RECENT-REPOS:START -->\n${table}\n<!-- RECENT-REPOS:END -->`;
+
             let readme = fs.readFileSync('README.md', 'utf8');
             readme = readme.replace(
               /<!-- RECENT-REPOS:START -->[\s\S]*?<!-- RECENT-REPOS:END -->/,
