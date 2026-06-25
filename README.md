@@ -50,12 +50,74 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 
 ## 🗂️ Recent Projects
 <!-- RECENT-REPOS:START -->
-[![leadgenerator](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=leadgenerator&theme=dark&hide_border=true)](https://github.com/dineshkwadhwani/leadgenerator)
-[![clubdeeperforms](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=clubdeeperforms&theme=dark&hide_border=true)](https://github.com/dineshkwadhwani/clubdeeperforms)
-[![dineshtrade](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=dineshtrade&theme=dark&hide_border=true)](https://github.com/dineshkwadhwani/dineshtrade)
-[![fieldedge](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=fieldedge&theme=dark&hide_border=true)](https://github.com/dineshkwadhwani/fieldedge)
-[![demo](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=demo&theme=dark&hide_border=true)](https://github.com/dineshkwadhwani/demo)
-[![StudioVerse](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=StudioVerse&theme=dark&hide_border=true)](https://github.com/dineshkwadhwani/StudioVerse)
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/leadgenerator">📁 leadgenerator</a></h4>
+  <p>A Simple AI based lead generator. Give the simple Excel file with the locaiton and name of the organization and application will get you the Google location, Contact Person, Phone and Operation Hours. [Claude, EC2, Python, Selenium]</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/leadgenerator?style=flat-square&label=Python" alt="Python" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/leadgenerator?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/leadgenerator?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/leadgenerator?style=flat-square" alt="last commit" />
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/clubdeeperforms">📁 clubdeeperforms</a></h4>
+  <p>_No description — add one on GitHub for it to appear here._</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/clubdeeperforms?style=flat-square&label=Python" alt="Python" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="last commit" />
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/dineshtrade">📁 dineshtrade</a></h4>
+  <p>_No description — add one on GitHub for it to appear here._</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/dineshtrade?style=flat-square&label=TypeScript" alt="TypeScript" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/dineshtrade?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/dineshtrade?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/dineshtrade?style=flat-square" alt="last commit" />
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/fieldedge">📁 fieldedge</a></h4>
+  <p>FieldEdge</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/fieldedge?style=flat-square&label=JavaScript" alt="JavaScript" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/fieldedge?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/fieldedge?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/fieldedge?style=flat-square" alt="last commit" />
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/demo">📁 demo</a></h4>
+  <p>_No description — add one on GitHub for it to appear here._</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/demo?style=flat-square&label=HTML" alt="HTML" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/demo?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/demo?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/demo?style=flat-square" alt="last commit" />
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/StudioVerse">📁 StudioVerse</a></h4>
+  <p>_No description — add one on GitHub for it to appear here._</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/StudioVerse?style=flat-square&label=TypeScript" alt="TypeScript" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/StudioVerse?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/StudioVerse?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/StudioVerse?style=flat-square" alt="last commit" />
+  </p>
+</td>
+</tr>
+</table>
 <!-- RECENT-REPOS:END -->
 
 ### ✍️ Random Dev Quote
