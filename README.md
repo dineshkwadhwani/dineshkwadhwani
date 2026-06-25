@@ -47,7 +47,7 @@ I am Currently Working on AI <br>This includes creating AI Agents to schedule mu
 <tr>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/leadgenerator">📁 leadgenerator</a></h4>
-  <p>A Simple AI based lead generator. Give the simple Excel file with the locaiton and name of the organization and application will get you the Google location, Contact Person, Phone and Operation Hours. </p>
+  <p>A Simple AI based lead generator. Give the simple Excel file with the locaiton and name of the organization and application will get you the Google location, Contact Person, Phone and Operation Hours. [Claude, EC2, Python, Selenium]</p>
   <p>
     <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/leadgenerator?style=flat-square&label=Python" alt="Python" />
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/leadgenerator?style=flat-square" alt="stars" />
