@@ -98,7 +98,7 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 <tr>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/demo">📁 demo</a></h4>
-  <p>_No description — add one on GitHub for it to appear here._</p>
+  <p>This is a prototype for the utility app. This is like ChoreVerse platform where people can search service providers for their daily chore activities. </p>
   <p>
     <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/demo?style=flat-square&label=HTML" alt="HTML" />
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/demo?style=flat-square" alt="stars" />
