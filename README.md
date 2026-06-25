@@ -54,7 +54,7 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 <tr>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/leadgenerator">📁 leadgenerator</a></h4>
-  <p>A Simple AI based lead generator. Give the simple Excel file with the locaiton and name of the organization and application will get you the Google location, Contact Person, Phone and Operation Hours. [Claude, EC2, Python, Selenium]</p>
+  <p>A Simple AI based lead generator. Give the simple Excel file with the locaiton and name of the organization and application will get you the Google location, Contact Person, Phone and Operation Hours. [Claude, EC2, Python, Selenium. Resend]</p>
   <p>
     <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/leadgenerator?style=flat-square&label=Python" alt="Python" />
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/leadgenerator?style=flat-square" alt="stars" />
@@ -64,7 +64,7 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 </td>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/clubdeeperforms">📁 clubdeeperforms</a></h4>
-  <p>_No description — add one on GitHub for it to appear here._</p>
+  <p>The Kickoff Project for Club Deeper. Collects requirements from the board and the team and processes the information and generates functional specifications, researches and generates cost esimates. [Claude, Groq for generating surveys, Agents for generating Specifications, Vercel for Deployment] </p>
   <p>
     <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/clubdeeperforms?style=flat-square&label=Python" alt="Python" />
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="stars" />
@@ -76,7 +76,7 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 <tr>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/dineshtrade">📁 dineshtrade</a></h4>
-  <p>_No description — add one on GitHub for it to appear here._</p>
+  <p>Algo Trading App. Connects with Zerodha. Places trades based on research. Gaurdrails prevent and manages risks. [Claude , Gemini, Typescript, Resend, EC2]</p>
   <p>
     <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/dineshtrade?style=flat-square&label=TypeScript" alt="TypeScript" />
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/dineshtrade?style=flat-square" alt="stars" />
@@ -86,7 +86,7 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 </td>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/fieldedge">📁 fieldedge</a></h4>
-  <p>FieldEdge</p>
+  <p>A prototype of the FieldEdge app. The app showcases simple functionalitiy of adding a company staff, Staff marking attendence and filling in expense. [Claude, Github Copilot, Html, Javascript]</p>
   <p>
     <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/fieldedge?style=flat-square&label=JavaScript" alt="JavaScript" />
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/fieldedge?style=flat-square" alt="stars" />
@@ -108,7 +108,7 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 </td>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/StudioVerse">📁 StudioVerse</a></h4>
-  <p>_No description — add one on GitHub for it to appear here._</p>
+  <p>StudioVerse is the platform of Studios. Coaching Studio is for Coaches, Recruitment Studio is for Recruiters. The HR Studio caters the HR of a company. A lot of other studios could be added. [Claude, Github Copilot, Groq, Research Agents, AI based assessments, Typescript, Resend, Google Auth, Firebase], </p>
   <p>
     <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/StudioVerse?style=flat-square&label=TypeScript" alt="TypeScript" />
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/StudioVerse?style=flat-square" alt="stars" />
