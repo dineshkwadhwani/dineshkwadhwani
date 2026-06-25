@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am Currently Working on AI <br>This includes creating AI Agents to schedule mundane tasks. <br>Creating collaboration among agents <br>
+AI-driven Senior Engineering Leader — hands-on building Agentic & Generative AI systems.<br>
+Architecting multi-agent workflows, LLM pipelines, and GenAI automation on Azure & AWS SaaS.<br>
+25+ years scaling engineering orgs from 50 → 400+ across India, US, Europe & APAC.<br>
+$500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
+
+🚀 **Currently building:**<br>
+**DineshTrade** — an AI-powered algo trading platform that brings intelligent automation to financial markets.<br>
+**StudioVerse** — a collection of AI-native studios. First up: Coaching Studio, a playground and marketplace for coaches to deliver, scale, and monetise their expertise.
 
 
 ## 🌐 Socials:
