@@ -41,11 +41,12 @@ I am Currently Working on AI <br>This includes creating AI Agents to schedule mu
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dineshkwadhwani&theme=github-compact&hide_border=true)
 
+## 🗂️ Recent Projects
+<!-- RECENT-REPOS:START -->
+<!-- RECENT-REPOS:END -->
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dineshkwadhwani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dineshkwadhwani&icon=0&color=0)](https://visitcount.itsvg.in)

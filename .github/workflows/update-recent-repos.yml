@@ -1,0 +1,61 @@
+name: Update Recent Repos
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs every day at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from GitHub
+
+permissions:
+  contents: write           # needed so the action can commit back to the repo
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest  # GitHub provides this VM for free
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch recent repos and update README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+
+            // Call the GitHub API — same data you see on your profile
+            const { data: repos } = await github.rest.repos.listForUser({
+              username: 'dineshkwadhwani',
+              sort: 'pushed',        // sorted by most recently pushed
+              direction: 'desc',
+              per_page: 10,
+              type: 'owner'          // only your own repos, not ones you starred
+            });
+
+            // Skip the profile repo itself and any forks
+            const filtered = repos
+              .filter(r => !r.fork && r.name !== 'dineshkwadhwani')
+              .slice(0, 6);
+
+            // Build a card for each repo using github-readme-stats (which is working)
+            const cards = filtered.map(repo =>
+              `[![${repo.name}](https://github-readme-stats.vercel.app/api/pin/?username=dineshkwadhwani&repo=${encodeURIComponent(repo.name)}&theme=dark&hide_border=true)](${repo.html_url})`
+            ).join('\n');
+
+            const newSection =
+              `<!-- RECENT-REPOS:START -->\n${cards}\n<!-- RECENT-REPOS:END -->`;
+
+            // Replace everything between the markers in README.md
+            let readme = fs.readFileSync('README.md', 'utf8');
+            readme = readme.replace(
+              /<!-- RECENT-REPOS:START -->[\s\S]*?<!-- RECENT-REPOS:END -->/,
+              newSection
+            );
+            fs.writeFileSync('README.md', readme);
+
+      - name: Commit and push if README changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update recent repos"
+          git push
