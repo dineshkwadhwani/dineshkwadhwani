@@ -53,6 +53,28 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 <table>
 <tr>
 <td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/thecoachdinesh">📁 thecoachdinesh</a></h4>
+  <p>The Coach Website for Dinesh Wadhwani. Uses LEadership tests using Groq. </p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/thecoachdinesh?style=flat-square&label=JavaScript" alt="JavaScript" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/thecoachdinesh?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/thecoachdinesh?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/thecoachdinesh?style=flat-square" alt="last commit" />
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/dineshtrade">📁 dineshtrade</a></h4>
+  <p>Algo Trading App. Connects with Zerodha. Places trades based on research. Gaurdrails prevent and manages risks. [Claude , Gemini, Typescript, Resend, EC2]</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/dineshtrade?style=flat-square&label=TypeScript" alt="TypeScript" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/dineshtrade?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/dineshtrade?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/dineshtrade?style=flat-square" alt="last commit" />
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/StudioVerse">📁 StudioVerse</a></h4>
   <p>StudioVerse is the platform of Studios. Coaching Studio is for Coaches, Recruitment Studio is for Recruiters. The HR Studio caters the HR of a company. A lot of other studios could be added. [Claude, Github Copilot, Groq, Research Agents, AI based assessments, Typescript, Resend, Google Auth, Firebase], </p>
   <p>
@@ -85,18 +107,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
   </p>
 </td>
 <td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/dineshtrade">📁 dineshtrade</a></h4>
-  <p>Algo Trading App. Connects with Zerodha. Places trades based on research. Gaurdrails prevent and manages risks. [Claude , Gemini, Typescript, Resend, EC2]</p>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/dineshtrade?style=flat-square&label=TypeScript" alt="TypeScript" />
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/dineshtrade?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/dineshtrade?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/dineshtrade?style=flat-square" alt="last commit" />
-  </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/fieldedge">📁 fieldedge</a></h4>
   <p>A prototype of the FieldEdge app. The app showcases simple functionalitiy of adding a company staff, Staff marking attendence and filling in expense. [Claude, Github Copilot, Html, Javascript]</p>
   <p>
@@ -104,16 +114,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/fieldedge?style=flat-square" alt="stars" />
     <img src="https://img.shields.io/github/forks/dineshkwadhwani/fieldedge?style=flat-square" alt="forks" />
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/fieldedge?style=flat-square" alt="last commit" />
-  </p>
-</td>
-<td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/demo">📁 demo</a></h4>
-  <p>This is a prototype for the utility app. This is like ChoreVerse platform where people can search service providers for their daily chore activities. </p>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/demo?style=flat-square&label=HTML" alt="HTML" />
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/demo?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/demo?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/demo?style=flat-square" alt="last commit" />
   </p>
 </td>
 </tr>
