@@ -53,6 +53,28 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 <table>
 <tr>
 <td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/clubdeeperforms">📁 clubdeeperforms</a></h4>
+  <p>The Kickoff Project for Club Deeper. Collects requirements from the board and the team and processes the information and generates functional specifications, researches and generates cost esimates. [Claude, Groq for generating surveys, Agents for generating Specifications, Vercel for Deployment] </p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/clubdeeperforms?style=flat-square&label=Python" alt="Python" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="last commit" />
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/searchmyjob">📁 searchmyjob</a></h4>
+  <p>_No description — add one on GitHub for it to appear here._</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/searchmyjob?style=flat-square&label=TypeScript" alt="TypeScript" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/searchmyjob?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/searchmyjob?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/searchmyjob?style=flat-square" alt="last commit" />
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/thecoachdinesh">📁 thecoachdinesh</a></h4>
   <p>The Coach Website for Dinesh Wadhwani. Uses LEadership tests using Groq. </p>
   <p>
@@ -92,28 +114,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/leadgenerator?style=flat-square" alt="stars" />
     <img src="https://img.shields.io/github/forks/dineshkwadhwani/leadgenerator?style=flat-square" alt="forks" />
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/leadgenerator?style=flat-square" alt="last commit" />
-  </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/clubdeeperforms">📁 clubdeeperforms</a></h4>
-  <p>The Kickoff Project for Club Deeper. Collects requirements from the board and the team and processes the information and generates functional specifications, researches and generates cost esimates. [Claude, Groq for generating surveys, Agents for generating Specifications, Vercel for Deployment] </p>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/clubdeeperforms?style=flat-square&label=Python" alt="Python" />
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="last commit" />
-  </p>
-</td>
-<td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/fieldedge">📁 fieldedge</a></h4>
-  <p>A prototype of the FieldEdge app. The app showcases simple functionalitiy of adding a company staff, Staff marking attendence and filling in expense. [Claude, Github Copilot, Html, Javascript]</p>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/fieldedge?style=flat-square&label=JavaScript" alt="JavaScript" />
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/fieldedge?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/fieldedge?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/fieldedge?style=flat-square" alt="last commit" />
   </p>
 </td>
 </tr>
