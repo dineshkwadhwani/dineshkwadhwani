@@ -53,6 +53,16 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 <table>
 <tr>
 <td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/thecoachdinesh">📁 thecoachdinesh</a></h4>
+  <p>The Coach Website for Dinesh Wadhwani. Uses LEadership tests using Groq. </p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/thecoachdinesh?style=flat-square&label=HTML" alt="HTML" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/thecoachdinesh?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/thecoachdinesh?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/thecoachdinesh?style=flat-square" alt="last commit" />
+  </p>
+</td>
+<td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/searchmyjob">📁 searchmyjob</a></h4>
   <p>_No description — add one on GitHub for it to appear here._</p>
   <p>
@@ -62,6 +72,8 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/searchmyjob?style=flat-square" alt="last commit" />
   </p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/clubdeeperforms">📁 clubdeeperforms</a></h4>
   <p>The Kickoff Project for Club Deeper. Collects requirements from the board and the team and processes the information and generates functional specifications, researches and generates cost esimates. [Claude, Groq for generating surveys, Agents for generating Specifications, Vercel for Deployment] </p>
@@ -70,18 +82,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="stars" />
     <img src="https://img.shields.io/github/forks/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="forks" />
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="last commit" />
-  </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/thecoachdinesh">📁 thecoachdinesh</a></h4>
-  <p>The Coach Website for Dinesh Wadhwani. Uses LEadership tests using Groq. </p>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/thecoachdinesh?style=flat-square&label=JavaScript" alt="JavaScript" />
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/thecoachdinesh?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/thecoachdinesh?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/thecoachdinesh?style=flat-square" alt="last commit" />
   </p>
 </td>
 <td width="50%" valign="top">
