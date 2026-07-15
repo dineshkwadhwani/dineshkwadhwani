@@ -53,6 +53,16 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 <table>
 <tr>
 <td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/dineshtrade">📁 dineshtrade</a></h4>
+  <p>Algo Trading App. Connects with Zerodha. Places trades based on research. Gaurdrails prevent and manages risks. [Claude , Gemini, Typescript, Resend, EC2]</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/dineshtrade?style=flat-square&label=TypeScript" alt="TypeScript" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/dineshtrade?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/dineshtrade?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/dineshtrade?style=flat-square" alt="last commit" />
+  </p>
+</td>
+<td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/searchmyjob">📁 searchmyjob</a></h4>
   <p>_No description — add one on GitHub for it to appear here._</p>
   <p>
@@ -62,6 +72,8 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/searchmyjob?style=flat-square" alt="last commit" />
   </p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/ServiceVerse">📁 ServiceVerse</a></h4>
   <p>_No description — add one on GitHub for it to appear here._</p>
@@ -72,8 +84,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/ServiceVerse?style=flat-square" alt="last commit" />
   </p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/StudioVerse">📁 StudioVerse</a></h4>
   <p>StudioVerse is the platform of Studios. Coaching Studio is for Coaches, Recruitment Studio is for Recruiters. The HR Studio caters the HR of a company. A lot of other studios could be added. [Claude, Github Copilot, Groq, Research Agents, AI based assessments, Typescript, Resend, Google Auth, Firebase], </p>
@@ -84,6 +94,8 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/StudioVerse?style=flat-square" alt="last commit" />
   </p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/thecoachdinesh">📁 thecoachdinesh</a></h4>
   <p>The Coach Website for Dinesh Wadhwani. Uses LEadership tests using Groq. </p>
@@ -92,18 +104,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/thecoachdinesh?style=flat-square" alt="stars" />
     <img src="https://img.shields.io/github/forks/dineshkwadhwani/thecoachdinesh?style=flat-square" alt="forks" />
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/thecoachdinesh?style=flat-square" alt="last commit" />
-  </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/dineshtrade">📁 dineshtrade</a></h4>
-  <p>Algo Trading App. Connects with Zerodha. Places trades based on research. Gaurdrails prevent and manages risks. [Claude , Gemini, Typescript, Resend, EC2]</p>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/dineshtrade?style=flat-square&label=TypeScript" alt="TypeScript" />
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/dineshtrade?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/dineshtrade?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/dineshtrade?style=flat-square" alt="last commit" />
   </p>
 </td>
 <td width="50%" valign="top">
