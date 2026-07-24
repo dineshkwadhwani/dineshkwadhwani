@@ -53,6 +53,28 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 <table>
 <tr>
 <td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/ServiceVerse">📁 ServiceVerse</a></h4>
+  <p>_No description — add one on GitHub for it to appear here._</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/ServiceVerse?style=flat-square&label=TypeScript" alt="TypeScript" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/ServiceVerse?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/ServiceVerse?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/ServiceVerse?style=flat-square" alt="last commit" />
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/dineshtrade">📁 dineshtrade</a></h4>
+  <p>Algo Trading App. Connects with Zerodha. Places trades based on research. Gaurdrails prevent and manages risks. [Claude , Gemini, Typescript, Resend, EC2]</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/dineshtrade?style=flat-square&label=TypeScript" alt="TypeScript" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/dineshtrade?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/dineshtrade?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/dineshtrade?style=flat-square" alt="last commit" />
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/thecoachdinesh">📁 thecoachdinesh</a></h4>
   <p>The Coach Website for Dinesh Wadhwani. Uses LEadership tests using Groq. </p>
   <p>
@@ -75,16 +97,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/ServiceVerse">📁 ServiceVerse</a></h4>
-  <p>_No description — add one on GitHub for it to appear here._</p>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/ServiceVerse?style=flat-square&label=TypeScript" alt="TypeScript" />
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/ServiceVerse?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/ServiceVerse?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/ServiceVerse?style=flat-square" alt="last commit" />
-  </p>
-</td>
-<td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/clubdeeperforms">📁 clubdeeperforms</a></h4>
   <p>The Kickoff Project for Club Deeper. Collects requirements from the board and the team and processes the information and generates functional specifications, researches and generates cost esimates. [Claude, Groq for generating surveys, Agents for generating Specifications, Vercel for Deployment] </p>
   <p>
@@ -92,18 +104,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="stars" />
     <img src="https://img.shields.io/github/forks/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="forks" />
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/clubdeeperforms?style=flat-square" alt="last commit" />
-  </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/dineshtrade">📁 dineshtrade</a></h4>
-  <p>Algo Trading App. Connects with Zerodha. Places trades based on research. Gaurdrails prevent and manages risks. [Claude , Gemini, Typescript, Resend, EC2]</p>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/dineshtrade?style=flat-square&label=TypeScript" alt="TypeScript" />
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/dineshtrade?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/dineshtrade?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/dineshtrade?style=flat-square" alt="last commit" />
   </p>
 </td>
 <td width="50%" valign="top">
