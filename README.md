@@ -53,6 +53,28 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 <table>
 <tr>
 <td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/dineshtrade">📁 dineshtrade</a></h4>
+  <p>Algo Trading App. Connects with Zerodha. Places trades based on research. Gaurdrails prevent and manages risks. [Claude , Gemini, Typescript, Resend, EC2]</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/dineshtrade?style=flat-square&label=TypeScript" alt="TypeScript" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/dineshtrade?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/dineshtrade?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/dineshtrade?style=flat-square" alt="last commit" />
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/dakshstudies">📁 dakshstudies</a></h4>
+  <p>_No description — add one on GitHub for it to appear here._</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/dakshstudies?style=flat-square&label=JavaScript" alt="JavaScript" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/dakshstudies?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/dakshstudies?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/dakshstudies?style=flat-square" alt="last commit" />
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/bizzio">📁 bizzio</a></h4>
   <p>_No description — add one on GitHub for it to appear here._</p>
   <p>
@@ -63,18 +85,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
   </p>
 </td>
 <td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/dineshtrade">📁 dineshtrade</a></h4>
-  <p>Algo Trading App. Connects with Zerodha. Places trades based on research. Gaurdrails prevent and manages risks. [Claude , Gemini, Typescript, Resend, EC2]</p>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/dineshtrade?style=flat-square&label=TypeScript" alt="TypeScript" />
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/dineshtrade?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/dineshtrade?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/dineshtrade?style=flat-square" alt="last commit" />
-  </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/thecoachdinesh">📁 thecoachdinesh</a></h4>
   <p>The Coach Website for Dinesh Wadhwani. Uses LEadership tests using Groq. </p>
   <p>
@@ -84,6 +94,8 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/thecoachdinesh?style=flat-square" alt="last commit" />
   </p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/symbiexam">📁 symbiexam</a></h4>
   <p>_No description — add one on GitHub for it to appear here._</p>
@@ -94,8 +106,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/symbiexam?style=flat-square" alt="last commit" />
   </p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/ServiceVerse">📁 ServiceVerse</a></h4>
   <p>_No description — add one on GitHub for it to appear here._</p>
@@ -104,16 +114,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/ServiceVerse?style=flat-square" alt="stars" />
     <img src="https://img.shields.io/github/forks/dineshkwadhwani/ServiceVerse?style=flat-square" alt="forks" />
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/ServiceVerse?style=flat-square" alt="last commit" />
-  </p>
-</td>
-<td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/agents">📁 agents</a></h4>
-  <p>_No description — add one on GitHub for it to appear here._</p>
-  <p>
-    
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/agents?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/agents?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/agents?style=flat-square" alt="last commit" />
   </p>
 </td>
 </tr>
