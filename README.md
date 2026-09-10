@@ -53,13 +53,13 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/bizzio">📁 bizzio</a></h4>
+  <h4><a href="https://github.com/dineshkwadhwani/examstudio1.1">📁 examstudio1.1</a></h4>
   <p>_No description — add one on GitHub for it to appear here._</p>
   <p>
-    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/bizzio?style=flat-square&label=TypeScript" alt="TypeScript" />
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/bizzio?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/bizzio?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/bizzio?style=flat-square" alt="last commit" />
+    
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/examstudio1.1?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/examstudio1.1?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/examstudio1.1?style=flat-square" alt="last commit" />
   </p>
 </td>
 <td width="50%" valign="top">
@@ -75,6 +75,16 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 </tr>
 <tr>
 <td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/bizzio">📁 bizzio</a></h4>
+  <p>_No description — add one on GitHub for it to appear here._</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/bizzio?style=flat-square&label=TypeScript" alt="TypeScript" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/bizzio?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/bizzio?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/bizzio?style=flat-square" alt="last commit" />
+  </p>
+</td>
+<td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/dakshstudies">📁 dakshstudies</a></h4>
   <p>_No description — add one on GitHub for it to appear here._</p>
   <p>
@@ -84,6 +94,8 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/dakshstudies?style=flat-square" alt="last commit" />
   </p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/symbiexam">📁 symbiexam</a></h4>
   <p>_No description — add one on GitHub for it to appear here._</p>
@@ -94,8 +106,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/symbiexam?style=flat-square" alt="last commit" />
   </p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/agents">📁 agents</a></h4>
   <p>_No description — add one on GitHub for it to appear here._</p>
@@ -104,16 +114,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/agents?style=flat-square" alt="stars" />
     <img src="https://img.shields.io/github/forks/dineshkwadhwani/agents?style=flat-square" alt="forks" />
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/agents?style=flat-square" alt="last commit" />
-  </p>
-</td>
-<td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/ServiceVerse">📁 ServiceVerse</a></h4>
-  <p>_No description — add one on GitHub for it to appear here._</p>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/ServiceVerse?style=flat-square&label=TypeScript" alt="TypeScript" />
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/ServiceVerse?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/ServiceVerse?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/ServiceVerse?style=flat-square" alt="last commit" />
   </p>
 </td>
 </tr>
