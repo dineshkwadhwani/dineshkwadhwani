@@ -56,7 +56,7 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
   <h4><a href="https://github.com/dineshkwadhwani/examstudio1.1">📁 examstudio1.1</a></h4>
   <p>_No description — add one on GitHub for it to appear here._</p>
   <p>
-    
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/examstudio1.1?style=flat-square&label=HTML" alt="HTML" />
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/examstudio1.1?style=flat-square" alt="stars" />
     <img src="https://img.shields.io/github/forks/dineshkwadhwani/examstudio1.1?style=flat-square" alt="forks" />
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/examstudio1.1?style=flat-square" alt="last commit" />
