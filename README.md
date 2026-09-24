@@ -53,13 +53,13 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/symbiexam">📁 symbiexam</a></h4>
+  <h4><a href="https://github.com/dineshkwadhwani/examstudio1.1">📁 examstudio1.1</a></h4>
   <p>_No description — add one on GitHub for it to appear here._</p>
   <p>
-    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/symbiexam?style=flat-square&label=TypeScript" alt="TypeScript" />
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/symbiexam?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/symbiexam?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/symbiexam?style=flat-square" alt="last commit" />
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/examstudio1.1?style=flat-square&label=HTML" alt="HTML" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/examstudio1.1?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/examstudio1.1?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/examstudio1.1?style=flat-square" alt="last commit" />
   </p>
 </td>
 <td width="50%" valign="top">
@@ -75,6 +75,16 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
 </tr>
 <tr>
 <td width="50%" valign="top">
+  <h4><a href="https://github.com/dineshkwadhwani/symbiexam">📁 symbiexam</a></h4>
+  <p>_No description — add one on GitHub for it to appear here._</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/symbiexam?style=flat-square&label=TypeScript" alt="TypeScript" />
+    <img src="https://img.shields.io/github/stars/dineshkwadhwani/symbiexam?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/dineshkwadhwani/symbiexam?style=flat-square" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/symbiexam?style=flat-square" alt="last commit" />
+  </p>
+</td>
+<td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/dineshtrade">📁 dineshtrade</a></h4>
   <p>Algo Trading App. Connects with Zerodha. Places trades based on research. Gaurdrails prevent and manages risks. [Claude , Gemini, Typescript, Resend, EC2]</p>
   <p>
@@ -84,6 +94,8 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/dineshtrade?style=flat-square" alt="last commit" />
   </p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h4><a href="https://github.com/dineshkwadhwani/dakshstudies">📁 dakshstudies</a></h4>
   <p>_No description — add one on GitHub for it to appear here._</p>
@@ -92,18 +104,6 @@ $500M+ revenue impact · NICE · IBM · Capita · 📍 Pune, India
     <img src="https://img.shields.io/github/stars/dineshkwadhwani/dakshstudies?style=flat-square" alt="stars" />
     <img src="https://img.shields.io/github/forks/dineshkwadhwani/dakshstudies?style=flat-square" alt="forks" />
     <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/dakshstudies?style=flat-square" alt="last commit" />
-  </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h4><a href="https://github.com/dineshkwadhwani/examstudio1.1">📁 examstudio1.1</a></h4>
-  <p>_No description — add one on GitHub for it to appear here._</p>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/dineshkwadhwani/examstudio1.1?style=flat-square&label=HTML" alt="HTML" />
-    <img src="https://img.shields.io/github/stars/dineshkwadhwani/examstudio1.1?style=flat-square" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dineshkwadhwani/examstudio1.1?style=flat-square" alt="forks" />
-    <img src="https://img.shields.io/github/last-commit/dineshkwadhwani/examstudio1.1?style=flat-square" alt="last commit" />
   </p>
 </td>
 <td width="50%" valign="top">
